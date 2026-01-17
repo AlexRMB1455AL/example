@@ -185,3 +185,9 @@ string new_message = new String(charMessage);
 Console.WriteLine(new_message);
 Console.WriteLine($"'o' appears {x} times.");
 Console.WriteLine(111);
+Console.WriteLine("a" == "a");
+Console.WriteLine("a" == "A");
+Console.WriteLine(1 == 2);
+
+string myValue = "a";
+Console.WriteLine(myValue == "a");
